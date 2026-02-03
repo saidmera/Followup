@@ -1,0 +1,9 @@
+
+{
+  "name": "LocalTrack Pro",
+  "description": "A fully offline-first location management system for tracking entry points and GPS coordinates with local data persistence and Excel export functionality.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}

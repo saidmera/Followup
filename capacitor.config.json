@@ -1,0 +1,10 @@
+
+{
+  "appId": "com.saidmera6.localtrack",
+  "appName": "LocalTrack Pro",
+  "webDir": ".",
+  "bundledWebRuntime": false,
+  "server": {
+    "androidScheme": "https"
+  }
+}
