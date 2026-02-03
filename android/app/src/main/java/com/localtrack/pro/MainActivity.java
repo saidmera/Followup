@@ -1,4 +1,4 @@
-package com.saidmera6.localtrack;
+package com.localtrack.pro;
 
 import com.getcapacitor.BridgeActivity;
 

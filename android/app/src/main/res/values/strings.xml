@@ -1,7 +1,7 @@
 <?xml version='1.0' encoding='utf-8'?>
 <resources>
-    <string name="app_name">LocalTrack Pro</string>
-    <string name="title_activity_main">LocalTrack Pro</string>
-    <string name="package_name">com.saidmera6.localtrack</string>
-    <string name="custom_url_scheme">com.saidmera6.localtrack</string>
+    <string name="app_name">localtrack-pro</string>
+    <string name="title_activity_main">localtrack-pro</string>
+    <string name="package_name">com.localtrack.pro</string>
+    <string name="custom_url_scheme">com.localtrack.pro</string>
 </resources>
