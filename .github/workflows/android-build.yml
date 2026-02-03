@@ -16,6 +16,12 @@ jobs:
           java-version: '21'
       - run: npm install
       - run: npm run build
+      
+      # This part handles the icons on the server
+      - name: Generate Icons
+        run: |
+          npx @capacitor/assets generate --android
+          
       - name: Initialize Android if missing
         run: |
           if [ ! -d "android" ]; then
